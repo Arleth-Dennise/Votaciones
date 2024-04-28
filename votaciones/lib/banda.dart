@@ -1,5 +1,5 @@
 class Banda {
-  final String id; // Agregamos el ID
+  final String id;
   final String nombre;
   final String album;
   final int anio;
